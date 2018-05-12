@@ -1,0 +1,27 @@
+_repo: The-Childhood-of-Distinguished-Women_36519
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 36519-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Bower, Selina A.
+    gutenberg_agent_id: '38327'
+    url: http://www.gutenberg.org/2009/agents/38327
+description: ''
+gutenberg_issued: '2011-06-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36519'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Women -- Biography'
+- !lcc 'CT'
+tableOfContents: The Princess Alice -- Mrs. Hannah More -- Lady Jane Grey -- Selina,
+  Countess of Huntingdon -- Queen Elizabeth -- Mrs. Hemans -- Mary, Queen of Scots
+  -- Pocahontas, the Rosebud -- Mrs. Opie -- Grace Darling -- Mrs. Fry -- Agnes Strickland.
+title: The Childhood of Distinguished Women
+url: http://www.gutenberg.org/ebooks/36519
